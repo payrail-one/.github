@@ -24,7 +24,7 @@ Payrail turns fragmented payment channels into one programmable settlement flow.
 | **Wallet** | Encrypted self-custody, transfers, payment requests, QR, SMS and hosted checkout |
 | **Explorer** | Independent inspection of transactions, blocks and final receipts |
 | **Merchant Portal** | Omnichannel payment acceptance and operational visibility |
-| **Exchange Node** | Sanitized self-hosted gateway for exchange and infrastructure integrations |
+| **Public Node** | Self-hosted verifying replica that any independent operator can run |
 | **SDK** | Typed clients, canonical amount handling and signing primitives |
 | **UI Kit** | One production-grade Payrail design system across every product surface |
 
