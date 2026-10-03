@@ -30,6 +30,6 @@ Payrail turns fragmented payment channels into one programmable settlement flow.
 
 ### See it live
 
-[**Payrail**](https://payrail.one) · [**Wallet**](https://wallet.payrail.one) · [**Explorer**](https://explorer.payrail.one) · [**Devnet**](https://devnet.payrail.one)
+[**Payrail**](https://payrail.one) · [**Wallet**](https://wallet.payrail.one) · [**Explorer**](https://explorer.payrail.one) · [**Devnet**](https://devnet.payrail.one) · [**Public Node**](https://public-node.payrail.one)
 
 The platform is in active private development. The public devnet demonstrates the complete payment path from locally signed authorization to an independently indexed final receipt.
